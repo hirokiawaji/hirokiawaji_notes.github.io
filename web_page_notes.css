@@ -102,7 +102,7 @@ h2{
 .citation{
   font-style:italic;
 }
-.content {
+. main .content {
   width: 80%;
   margin:0 auto;
 }
