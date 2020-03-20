@@ -102,13 +102,13 @@ h2{
 .citation{
   font-style:italic;
 }
-. main .content {
+.main{
   width: 80%;
   margin:0 auto;
 }
 .citation{
-  margin-top:30px;
-  margin-bottom:30px;
+  margin-top:50px;
+  margin-bottom:50px;
 }
 .main a{
   text-decoration:none;
