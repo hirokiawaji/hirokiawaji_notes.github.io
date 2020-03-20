@@ -112,12 +112,12 @@ h2{
   margin-top:50px;
   margin-bottom:50px;
 }
-.main a{
+.link{
   text-decoration:none;
   color:black;
   font-weight:bold;
 }
-.main a:hover{
+.link:hover{
   color:gray;
 }
 @media(max-width:1000px){
