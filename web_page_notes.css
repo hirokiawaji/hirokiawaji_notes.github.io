@@ -74,6 +74,16 @@
 .profile:hover{
   color:gray;
 }
+.pictureframe{
+  display:inline-block;
+  width:48%;
+  list-style: none;
+}
+h5{
+  font-family:serif;
+  font-size:14px;
+  font-weight:lighter;
+}
 h1{
   margin-left: 30px;
   font-family:serif;
