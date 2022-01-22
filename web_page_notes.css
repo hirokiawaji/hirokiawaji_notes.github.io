@@ -168,14 +168,3 @@ h2{
     font-size:36px;
   }
 }
-
-@media(max-width:1000px){
-  .content {
-    width:80%;
-  }
-}
-@media(max-width:670px){
-  .content {
-    width:90%;
-  }
-}
