@@ -164,7 +164,7 @@ h2{
   .main{
     margin-top:200px;
   }
-  .header-list{
+  .header-list li{
     font-size:36px;
   }
 }
