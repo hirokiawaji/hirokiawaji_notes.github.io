@@ -7,7 +7,9 @@
 .header-list li{
   display:inline-block;
   margin:10px;
-  font-family:courier
+  font-family:serif;
+  font-size:24px;
+  font-weight:lighter;
 }
 .header-list {
   display:inline-block;
@@ -18,10 +20,17 @@
   font-family:serif;
   font-weight:bold;
   margin-left:30px;
+  font-size:48px;
 }
 .header{
   height:50px;
   border-bottom:solid 1px;
+}
+.footer{
+  margin-bottom:100px;
+}
+.main{
+  margin-top:50px;
 }
 .works li{
   display:inline-block;
@@ -54,6 +63,10 @@
   text-decoration: none;
   color:black;
 }
+.tools{
+  text-decoration: none;
+  color:black;
+}
 .notes{
   text-decoration: none;
   color:black;
@@ -72,6 +85,9 @@
   color:gray;
 }
 .profile:hover{
+  color:gray;
+}
+.tools:hover{
   color:gray;
 }
 .pictureframe{
@@ -145,6 +161,12 @@ h2{
   }
   .header{
     height:90px;
+  }
+  .main{
+    margin-top:200px;
+  }
+  .header-list{
+    font-size:36px;
   }
 }
 
